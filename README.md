@@ -25,7 +25,29 @@ complications and end up in the hospital. Hospitals and clinics need additional 
 * Scope: The agency covers all hospitals in each of the 50 states of the United States, and
 the project will plan for the upcoming influenza season.
 
+### Analytical Skills:
+
+* Data cleaning 
+* Data integration
+* Data transformation
+* Translating business requirements
+* Statistical Hypothesis Test
+* Visual Analysis
+* Forecasting
+* Storytelling Tableu
+* Presenting Results5
+
+### Tools
+
+* Excel
+* Microsoft Word
+* Tableu
+* Youtube
+
+
 ### Additional Links / Deliverables
 
 [Tableau Storyboard](https://public.tableau.com/app/profile/ana.maria.tiscareno.contreras/viz/Task2_9Storyboard_17028586911320/InfluenzaSeason)
+
+
 
